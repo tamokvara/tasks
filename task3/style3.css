@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+.tb1{
+
+width: 70%;
+border-style: hidden;
+}
+
+.id, .title, .created, .action
+{
+    font-size: 15px;
+    font-weight: 700;
+}
+.idbox {
+    height: 45px;
+    width: 201px;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    color: #ebebeb;
+    font-size: 16px;
+}
+.titlebox {
+    height: 45px;
+    width: 593px;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    color: #ebebeb;
+    font-size: 16px;
+}
+.createdbox{
+    height: 45px;
+    width: 201px;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    color: #ebebeb;
+    font-size: 16px;
+}
+.search1{
+    background-color:#FFD43A;
+    border: solid #FFD43A;
+    border-radius: 10px;
+    text-align: center;
+    height: 45px;
+    width: 115px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+    
+.button1{
+    background-color:#FFD43A;
+    border: solid #FFD43A;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+    width: 115px;
+    height: 36px;
+}
+.button2{
+   background-color:#E84949;
+   border: solid #E84949;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 15px;
+   color:#FFFFFF;
+   width: 115px;
+   height: 36px;  
+}
+
+h3 {
+margin-left: 250px;
+margin-top: 40px;
+font-size: 25px;
+}
+.header1{
+margin-top: 35px;
+}
+th, td, table{
+    border: 1px solid #DADADA;
+    border-collapse: collapse;  
+}
+th {height: 57px;
+    background-color: #f9f9f9;
+}
+.td2 {
+padding-left: 20px;
+}
+.td3, .td1{
+    text-align: center;
+    height: 57px;
+}
+
+table {
+    margin: 0 auto;
+}
+.th1{
+    width: 72px;
+}
+.th2{
+    width: 444px;
+}
+.th3{
+    width: 276px;
+}
+.th4{
+    width: 368px;
+}
